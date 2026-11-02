@@ -15,9 +15,9 @@
 ## Emotion tags
 - Write tags in square brackets, such as `[serious]`. The model performs them without reading them aloud.
 - **Never use quiet, whisper, soft, or hushed tags.** They sound odd with this voice.
-- **Avoid `[excited]`.** In Episode 1 it made the delivery sound too excited. Use calmer, engaged tags instead: `[interested]`, `[intrigued]`, `[curious]`, `[confident]`, `[warm]`.
-- Go easy on `[playful]` and `[upbeat]` for the same reason.
-- Good tags for serious moments: `[serious]`, `[somber]`, `[thoughtful]`, `[reflective]`, `[sad]`, `[determined]`.
+- **Keep the energy low-key.** Don't use `[excited]`, `[playful]`, `[upbeat]`, `[amused]` (it can make the voice laugh), `[dramatic]`, `[intense]`, `[intrigued]`, `[confident]`, or `[warm]`. They all made the delivery too upbeat.
+- Tags to use instead: `[interested]`, `[curious]`, `[matter-of-fact]`, `[calm]`, `[storytelling]`, `[serious]`, `[somber]`, `[thoughtful]`, `[reflective]`, `[sad]`, `[determined]`, `[ominous]`.
+- **The show-name lines match the episode's mood.** The intro ("This is Chunk History Shorts...") uses the cold open's tone, and the outro ("Thanks for listening...") uses the ending's tone. For example, Episode 3 uses `[somber]` for both. Never tag either line upbeat or warm.
 
 ## Music (Suno)
 - Instrumental only, with no artist names in the prompts.

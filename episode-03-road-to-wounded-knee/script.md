@@ -25,14 +25,14 @@ How to use this script:
 ### MUSIC M13 out. MUSIC M1 (theme) swells for 5 seconds, then ducks under VO 3
 
 **VO 3: Show intro**
-> [warm] This is Chunk History Shorts. Episode three: The Road to Wounded Knee.
+> [somber] This is Chunk History Shorts. Episode three: The Road to Wounded Knee.
 
 ### MUSIC M1 fades. SFX S2: buffalo herd thundering past on open prairie, fading into wind → MUSIC M14 (open plains) in, low
 
 **VO 4: The Plains Nations** *(Q1)*
 > [interested] Dozens of nations. The Lakota and Dakota, whom outsiders called the Sioux. The Cheyenne and Arapaho. The Comanche and Kiowa. The Crow and the Pawnee.
 > After Spanish horses spread north, many built their lives around horses and buffalo, following the herds with tipis they could pack up fast.
-> [intrigued] They used nearly every part of the buffalo. Hides for tipis, robes, and moccasins. Bones for tools. Sinew for bowstrings. Even the stomach became a cooking pot.
+> [interested] They used nearly every part of the buffalo. Hides for tipis, robes, and moccasins. Bones for tools. Sinew for bowstrings. Even the stomach became a cooking pot.
 > [thoughtful] To the Lakota, the buffalo was sacred.
 
 ### MUSIC M14 out. SFX S3: dry cornstalks rattling in a hot, empty wind → MUSIC M15 (broken promises) in, low
@@ -46,7 +46,7 @@ How to use this script:
 ### (After "Violence followed." let M15 thin out to just low strings for the Sand Creek section)
 
 **VO 6: Gold, silver, and Sand Creek** *(Q3)*
-> [intrigued] Farther south, in 1858, prospectors found gold near Pikes Peak, Colorado, and later, silver. Tens of thousands of miners poured onto land promised to the Cheyenne and Arapaho. Violence followed.
+> [interested] Farther south, in 1858, prospectors found gold near Pikes Peak, Colorado, and later, silver. Tens of thousands of miners poured onto land promised to the Cheyenne and Arapaho. Violence followed.
 > [thoughtful] A Cheyenne peace chief named Black Kettle camped his people at Sand Creek, believing they were under army protection. According to witnesses, an American flag flew over his lodge, with a white flag beneath it.
 > [somber] At dawn on November twenty-ninth, 1864, Colonel John Chivington attacked anyway. Around two hundred Cheyenne and Arapaho were killed, most of them women, children, and elders.
 
@@ -55,13 +55,13 @@ How to use this script:
 **VO 7: The Peace Commission** *(Q4)*
 > [thoughtful] In 1867, Congress created the Indian Peace Commission. Its message: Native nations must move onto reservations and learn to farm.
 > At Medicine Lodge Creek, southern Plains nations accepted reservations in present-day Oklahoma.
-> [confident] But the Lakota leader Red Cloud fought so hard that the army abandoned its forts in his country. The 1868 Treaty of Fort Laramie promised the Lakota a huge reservation, including the sacred Black Hills, for their "absolute and undisturbed use."
+> [matter-of-fact] But the Lakota leader Red Cloud fought so hard that the army abandoned its forts in his country. The 1868 Treaty of Fort Laramie promised the Lakota a huge reservation, including the sacred Black Hills, for their "absolute and undisturbed use."
 > [serious] That promise lasted six years.
 
 ### MUSIC M16 stops on "six years." SFX S6: pickaxe striking rock, echoing through a pine forest → MUSIC M17 (Black Hills) in
 
 **VO 8: Gold in the Black Hills** *(Q5)*
-> [intrigued] In 1874, George Custer led an army expedition into the Black Hills. They found gold.
+> [interested] In 1874, George Custer led an army expedition into the Black Hills. They found gold.
 > [serious] Miners rushed in. The Lakota refused to sell. So the government ordered every Lakota onto the reservation by January thirty-first, 1876, in the dead of winter. Bands that stayed out with Sitting Bull and Crazy Horse were declared hostile. The army went after them, including Custer's Seventh Cavalry.
 
 ### SFX S7: many horses galloping through dry grass, rumbling past and fading into the distance
@@ -96,7 +96,7 @@ How to use this script:
 ### MUSIC M19 out. SFX S11: night wind over the prairie, a crackling fire, many footsteps moving slowly over frozen ground → MUSIC M20 (Ghost Dance) in, low
 
 **VO 13: The Ghost Dance and Sitting Bull** *(Q10)*
-> [intrigued] By 1890, the buffalo were nearly gone, and the Lakota were hungry.
+> [interested] By 1890, the buffalo were nearly gone, and the Lakota were hungry.
 > Hope came from a vision. A Paiute holy man named Wovoka taught that if Native people danced the Ghost Dance, the buffalo and their lost loved ones would return. Some Lakota wore Ghost Dance shirts they believed could stop bullets.
 > [serious] Officials panicked. At Standing Rock, agent James McLaughlin feared Sitting Bull would lead the movement. On December fifteenth, 1890, he sent Lakota police to arrest him. A fight broke out, and Sitting Bull was killed.
 > [thoughtful] So Sitting Bull died at Standing Rock, not Wounded Knee. But one led straight to the other.
@@ -120,7 +120,7 @@ How to use this script:
 > [reflective] Black Elk rode to the creek when he heard the guns. Decades later, he told his story to John Neihardt for the book Black Elk Speaks.
 > [sad] "Something else died there in the bloody mud," he said, "and was buried in the blizzard. A people's dream died there. It was a beautiful dream."
 > [thoughtful] But the Lakota, and all these nations, are still here. Still telling their own stories.
-> [warm] Thanks for listening to Chunk History Shorts.
+> [somber] Thanks for listening to Chunk History Shorts.
 
 ### MUSIC M1 swells to finish (about 8 sec)
 

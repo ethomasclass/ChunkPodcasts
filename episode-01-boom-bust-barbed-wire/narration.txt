@@ -6,41 +6,41 @@ They stop at a fence. A brand-new one. Wooden posts... and strung between them, 
 One rider pulls out a pair of cutters.
 
 --- VO 2 ---
-[intrigued] By morning, miles of fence will be lying in the dirt. Who were these riders? And why were they so angry about a fence?
-To find out, we have to go back thirty years... to a mountainside in Nevada, where a group of miners was about to get [playful] very lucky.
+[interested] By morning, miles of fence will be lying in the dirt. Who were these riders? And why were they so angry about a fence?
+To find out, we have to go back thirty years... to a mountainside in Nevada, where a group of miners was about to get [interested] very lucky.
 
 --- VO 3 ---
-[warm] This is Chunk History Shorts. Episode one: Boom, Bust, and Barbed Wire.
+[thoughtful] This is Chunk History Shorts. Episode one: Boom, Bust, and Barbed Wire.
 
 --- VO 4 ---
-[storytelling] In 1859, prospectors in western Nevada kept hitting a sticky, blue-gray mud that clogged their equipment. [excited] It turned out to be loaded with silver.
+[storytelling] In 1859, prospectors in western Nevada kept hitting a sticky, blue-gray mud that clogged their equipment. [interested] It turned out to be loaded with silver.
 The find was named after one of the men who claimed it, Henry Comstock. The Comstock Lode became one of the richest silver strikes in history.
 Within months, thousands rushed in. A town called Virginia City appeared almost overnight, and by the 1870s, about twenty-five thousand people lived there.
 [matter-of-fact] That's a boomtown: a town that explodes into existence because of a sudden opportunity, usually a gold or silver strike. They popped up wherever someone struck it rich, from Deadwood in the Dakotas to Leadville in Colorado.
 [somber] But a boom usually comes with a bust. When the ore ran out, the miners left, the stores closed, and many boomtowns became ghost towns.
-[confident] Still, mining changed the country. It pulled hundreds of thousands of people west: Americans from the East, and immigrants from China, Ireland, Mexico, Chile, and beyond. Territories filled up fast enough to become states. Nevada in 1864. Colorado in 1876. And western gold and silver helped pay for the Civil War and fueled the national economy.
+[matter-of-fact] Still, mining changed the country. It pulled hundreds of thousands of people west: Americans from the East, and immigrants from China, Ireland, Mexico, Chile, and beyond. Territories filled up fast enough to become states. Nevada in 1864. Colorado in 1876. And western gold and silver helped pay for the Civil War and fueled the national economy.
 
 --- VO 5 ---
 [curious] So how did miners actually get the gold out?
 The early way was placer mining. Gold washes down into streams, so miners swirled gravel in a pan, or shoveled it into a long wooden box called a sluice. Water carried the light dirt away, and the heavy gold sank and got caught on little ridges at the bottom. Slow work. But small.
 
 --- VO 6 ---
-[dramatic] Hydraulic mining was not small.
+[serious] Hydraulic mining was not small.
 
 --- VO 7 ---
-[intense] In California, companies aimed giant, high-pressure water cannons at entire hillsides. Hills simply melted away, and all that mud and gravel poured into the rivers.
+[serious] In California, companies aimed giant, high-pressure water cannons at entire hillsides. Hills simply melted away, and all that mud and gravel poured into the rivers.
 [serious] Riverbeds filled up. Fish died. Downstream, floods buried farms and towns in mud. Farmers fought back in court, and in 1884, a federal judge banned dumping mining debris into the rivers, which basically ended hydraulic mining in California. The scars on the land are still visible today.
 
 --- VO 8 ---
-[upbeat] While miners tore into the mountains, another fortune was walking around on four legs.
+[interested] While miners tore into the mountains, another fortune was walking around on four legs.
 After the Civil War, millions of longhorn cattle roamed Texas, where a steer was worth about four dollars. But back East, cities were filling up with factory workers, and all those workers wanted beef. In Chicago or New York, that same steer could be worth forty.
-[amused] Four dollars here. Forty dollars there. The problem was the thousand miles in between.
-[excited] The answer was the railroad. By the late 1860s, tracks reached cow towns in Kansas like Abilene. Get the cattle there, and trains could carry them to the stockyards of Chicago. Later, refrigerated railcars carried fresh beef all the way to the East Coast.
+[matter-of-fact] Four dollars here. Forty dollars there. The problem was the thousand miles in between.
+[interested] The answer was the railroad. By the late 1860s, tracks reached cow towns in Kansas like Abilene. Get the cattle there, and trains could carry them to the stockyards of Chicago. Later, refrigerated railcars carried fresh beef all the way to the East Coast.
 
 --- VO 9 ---
 Texas ranchers like Charles Goodnight drove thousands of cattle hundreds of miles to reach those markets. Goodnight even invented the chuck wagon to feed his crew.
-[playful] That crew? Cowboys.
-A cowboy's job was to take care of the herd. Cowboys rounded up cattle, branded them so owners could tell whose animals were whose, and drove them north on cattle drives that lasted months, guarding the herd at night and stopping stampedes. The pay was low. The work was dangerous. [amused] And the movies got a lot wrong. [serious] As many as one in four cowboys was Black, and many were Mexican vaqueros, whose skills, and words like "lasso" and "rodeo," shaped the whole job.
+[interested] That crew? Cowboys.
+A cowboy's job was to take care of the herd. Cowboys rounded up cattle, branded them so owners could tell whose animals were whose, and drove them north on cattle drives that lasted months, guarding the herd at night and stopping stampedes. The pay was low. The work was dangerous. [matter-of-fact] And the movies got a lot wrong. [serious] As many as one in four cowboys was Black, and many were Mexican vaqueros, whose skills, and words like "lasso" and "rodeo," shaped the whole job.
 [curious] And where did all those cattle eat? On the open range: the huge stretch of unfenced public grassland across the Great Plains, where ranchers let their herds graze freely on land they didn't own.
 For about twenty years, it worked. [ominous] Then came the wire.
 
@@ -51,7 +51,7 @@ The Plains didn't have enough trees for wooden fences, but barbed wire was cheap
 
 --- VO 11 ---
 Between barbed wire, overgrazing, and railroads reaching farther west, the open range and the long cattle drive were finished by about 1890.
-[intrigued] Which brings us back to New Mexico.
+[interested] Which brings us back to New Mexico.
 
 --- VO 12 ---
 [thoughtful] Hispanic families, Nuevomexicanos, had lived in New Mexico for generations, some for nearly three hundred years. Many villages sat on land grants from Spain or Mexico, and much of that land was shared: common land where everyone could graze sheep and cut firewood. When the United States took the region in 1848, the treaty promised to respect those property rights.
@@ -65,5 +65,5 @@ Between barbed wire, overgrazing, and railroads reaching farther west, the open 
 --- VO 14 ---
 [reflective] Miners, cattle barons, cowboys, farmers, Nuevomexicanos. For a while, the open West seemed big enough for everyone. Then barbed wire drew lines across all of it.
 [serious] Every one of those fences answered the same question: Who does this land belong to?
-[warm] Next time: the government offers free land to anyone willing to farm it, and thousands of families bet everything on a place once called the Great American Desert.
-Thanks for listening to Chunk History Shorts.
+[calm] Next time: the government offers free land to anyone willing to farm it, and thousands of families bet everything on a place once called the Great American Desert.
+[thoughtful] Thanks for listening to Chunk History Shorts.
