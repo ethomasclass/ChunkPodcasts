@@ -7,7 +7,7 @@ Short, story-driven history podcast episodes for students (6–7 minutes each), 
 | # | Title | Topic | Status |
 |---|---|---|---|
 | 1 | [Boom, Bust, and Barbed Wire](episode-01-boom-bust-barbed-wire/) | Mining, ranching, the open range, Las Gorras Blancas | Narration and SFX recorded; music to add |
-| 2 | Sodbusters | Homestead Act, Exodusters, farming the Plains, the Children's Blizzard, Turner's Frontier Thesis | Planned |
+| 2 | [Sodbusters](episode-02-sodbusters/) | Homestead Act, Exodusters, farming the Plains, the Children's Blizzard, Turner's Frontier Thesis | Script done; narration VO 1–8 recorded, VO 9–12 and SFX to record |
 | 3 | The Road to Wounded Knee | Plains Nations and the Plains Wars, assimilation, the Dawes Act, Wounded Knee | Planned |
 
 ## What's in each episode folder
