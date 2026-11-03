@@ -33,11 +33,13 @@ def build(ep, seq, anchored, music, out):
         if a[0]=='vo': return vo[a[1]][0 if a[2]=='start' else 1]+a[3]
         if a[0]=='word': return word_t(a[1],a[2],a[3],a[5] if len(a)>5 else 1)+a[4]
         if a[0]=='t': return a[1]
-    for name,a in anchored:
-        f=E+f'sfx/{name}.mp3'; d=dur(f); ev.append((f,max(0,at(a)),SFX_UNDER+3-lufs(f),0,d,0.1,min(1.5,d/3)))
-    for name,a,b,off,fi,fo in music:
+    for an in anchored:
+        name,a=an[:2]; f=E+f'sfx/{name}.mp3'; d=dur(f); lvl=an[2] if len(an)>2 else SFX_UNDER+3
+        ev.append((f,max(0,at(a)),lvl-lufs(f),0,d,0.1,min(1.5,d/3)))
+    for m in music:
+        name,a,b,off,fi,fo=m[:6]
         f=E+(name if '/' in name else f'music/{name}')+'.mp3'; s=max(0,at(a)); e=at(b); L=min(e-s, dur(f)-off)
-        lvl=SFX_UNDER if name.startswith('sfx/') else BED_LUFS
+        lvl=m[6] if len(m)>6 else (SFX_UNDER if name.startswith('sfx/') else BED_LUFS)
         ev.append((f,s,lvl-lufs(f),off,L,fi,fo))
     total=max(end_t, max(e[1]+e[4] for e in ev))+0.5
     if os.environ.get("DBG"):
