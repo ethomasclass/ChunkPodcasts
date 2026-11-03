@@ -24,6 +24,6 @@ Short, story-driven history podcast episodes for students (6–7 minutes each), 
 2. Generate the music cues in Suno, using the instrumental prompts in the script.
 3. Assemble the clips in an audio editor, layering music and SFX at the cue points.
 
-Music: see [MUSIC_CUES.md](MUSIC_CUES.md) for the simplified plan (4 music placements per episode).
+Music: see [MUSIC_CUES.md](MUSIC_CUES.md). Each episode reuses 4 cues from the Chunk History music library, with no intro or outro theme.
 
 See [STYLE_GUIDE.md](STYLE_GUIDE.md) for voice, tag, and format rules shared by every episode.

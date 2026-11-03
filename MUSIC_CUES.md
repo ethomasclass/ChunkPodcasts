@@ -1,166 +1,35 @@
-# Music Cues (simplified plan)
+# Music Cues
 
-Each episode gets **4 music placements**: the theme at the intro and outro, plus 2 section beds. Everything else is narration with sound effects only. Make 8 tracks in total.
+Every track comes from the existing Chunk History music library (`music/cues/` in the `15minhistorystyle` repo), so there's nothing to generate. Copies are in each episode's `audio/music/` folder, keeping their original prefixes so they can be traced back to the library.
 
-**Suno setup:** use Custom mode. Paste **Style** into Style of Music, **Lyrics** into the Lyrics box (tags only, no words), and **Exclude** into Exclude Styles. Suno makes long tracks, so trim each one to the length needed.
+**No intro or outro theme.** Each episode has 4 music placements under specific sections. Everything else is narration and sound effects only.
 
-## Where each track goes
-| Episode | Intro | Bed 1 | Bed 2 | Outro |
+## Episode 1: Boom, Bust, and Barbed Wire
+| # | Where | Track | Use | Notes |
 |---|---|---|---|---|
-| 1 | T1, 15 sec (VO 3) | E1-A, 1:50 (VO 8–9) | E1-B, 1:40 (VO 12–13) | T1, 40 sec (VO 14) |
-| 2 | T1, 15 sec (VO 3) | E2-A, 1:00 (VO 7–8) | E2-B, 40 sec (VO 10) | T1, 35 sec (VO 12) |
-| 3 | T1b, 15 sec (VO 3) | E3-A, 40 sec (VO 4) | E3-B, 40 sec (VO 10) | T1b, 35 sec (VO 16) |
+| 1 | Boomtowns (VO 4) | `aw_boomtown_rush` | 0:00–0:44 of the track | Starts with VO 4. Hard-stop the music right after "bust" (43 sec into VO 4) and let the bust line sit in silence. |
+| 2 | Hydraulic mining (VO 7) | `aw_boomtown_hollow` | first 0:35 | Low strings, one sour piano chord. Comes in after the water-cannon SFX. |
+| 3 | Cattle and cowboys (VO 8–9) | `aw_long_drive` | first 1:50 | A cattle-trail cue. Fade out on "Then came the wire." |
+| 4 | Nuevomexicanos (VO 12 into VO 13) | `m_lament` | full track, 1:09 | Borderlands lament on nylon guitar. Fade before "In 1890, they posted a public platform." |
 
-Episode 3 has no music during Wounded Knee (VO 14–15).
+## Episode 2: Sodbusters
+| # | Where | Track | Use | Notes |
+|---|---|---|---|---|
+| 1 | Blizzard cold open (VO 1–2) | `aw_white_cold` | first 0:55 | Glassy, wind-like, no melody. Sits under the blizzard SFX. |
+| 2 | Exodusters (VO 6) | `rc_resolve` | first 0:50 | A dignified hymn with a quiet, determined swell. |
+| 3 | Sod houses (VO 7–8) | `rc_jubilo` | first 1:00 | Banjo and fiddle, hopeful but fragile. |
+| 4 | Children's Blizzard (VO 10) | `aw_white_cold` | 0:40, starting about 1:00 into the track | The same cue returns to tie back to the cold open. |
 
----
+## Episode 3: The Road to Wounded Knee
+| # | Where | Track | Use | Notes |
+|---|---|---|---|---|
+| 1 | Cold open (VO 1–2) | `j_cold_open` | first 0:45 | Low cello, a frame-drum heartbeat, slow suspense. |
+| 2 | Plains nations and the buffalo (VO 4) | `aw_promise_theme` | first 0:40 | Solo piano into warm strings. |
+| 3 | Nez Perce and Chief Joseph (VO 10) | `j_grief` | full track, 0:40 | Solo cello. Let it ring out under "I will fight no more forever." |
+| 4 | Black Elk's closing (VO 16) | `aw_long_grief` | first 0:35 | Very quiet grieving cello. This is the first music after Wounded Knee. |
 
-## T1 Main theme (all episodes; intro 15 sec, outro 40 sec)
-Style:
-```
-slow cinematic americana, fingerpicked acoustic guitar, warm cello, light harmonica, soft steady pulse, reflective and grounded, documentary theme, instrumental
-```
-Lyrics:
-```
-[Intro: solo fingerpicked acoustic guitar]
-[Instrumental: cello joins, light harmonica melody]
-[Build: soft steady pulse]
-[Outro: guitar and cello, gentle ritardando]
-[Fade Out]
-[End]
-```
-Exclude:
-```
-vocals, singing, choir, humming, electric guitar, synth, EDM, heavy drums, upbeat, pop
-```
-
-## T1b Somber theme (Episode 3; intro 15 sec, outro 35 sec)
-Style:
-```
-slow somber cinematic americana, solo cello and sparse piano, fingerpicked acoustic guitar, minor key, reverent and still, documentary, instrumental
-```
-Lyrics:
-```
-[Intro: solo cello, slow]
-[Instrumental: sparse piano and fingerpicked guitar, minor key]
-[Outro: cello sustains, piano fades]
-[Fade Out]
-[End]
-```
-Exclude:
-```
-vocals, singing, choir, humming, drums, percussion, harmonica, synth, upbeat, major key, pop
-```
-
-## E1-A Cattle trail (Episode 1, VO 8–9; 1:50)
-Style:
-```
-laid-back western trail instrumental, loping mid-tempo rhythm, strummed acoustic guitar, gentle fiddle, upright bass, open prairie, steady and unhurried, instrumental
-```
-Lyrics:
-```
-[Intro: strummed acoustic guitar, loping rhythm]
-[Instrumental: gentle fiddle melody, upright bass]
-[Instrumental: steady trail groove, no build]
-[Outro: fiddle fades]
-[End]
-```
-Exclude:
-```
-vocals, singing, yodel, whistling, electric guitar, drum kit, modern country, bluegrass breakdown, fast tempo, upbeat
-```
-
-## E1-B New Mexico (Episode 1, VO 12–13; 1:40)
-Style:
-```
-slow northern new mexico folk, nylon string spanish guitar, solo violin, melancholy but determined, sparse, night, instrumental
-```
-Lyrics:
-```
-[Intro: solo nylon string guitar]
-[Instrumental: solo violin enters, slow]
-[Instrumental: guitar and violin, sparse]
-[Outro: guitar alone]
-[Fade Out]
-[End]
-```
-Exclude:
-```
-vocals, singing, mariachi, trumpet, flamenco, fast strumming, handclaps, percussion, upbeat, festive
-```
-
-## E2-A Homestead life (Episode 2, VO 7–8; 1:00)
-Style:
-```
-gentle folksy homestead instrumental, banjo, soft fiddle, upright bass, 1880s prairie, simple and calm, instrumental
-```
-Lyrics:
-```
-[Intro: gentle banjo]
-[Instrumental: soft fiddle and upright bass, simple melody]
-[Outro: banjo alone]
-[End]
-```
-Exclude:
-```
-vocals, singing, drums, fast tempo, bluegrass breakdown, hoedown, electric guitar, upbeat, comedic
-```
-
-## E2-B Blizzard (Episode 2, VO 10; 40 sec)
-Style:
-```
-cold tense winter underscore, sustained high strings, low cello pulse, airy wind-like textures, slow build, instrumental
-```
-Lyrics:
-```
-[Intro: airy wind-like textures]
-[Instrumental: sustained high strings, low cello pulse]
-[Build: slow tension rise]
-[Outro: strings hold, cut to silence]
-[End]
-```
-Exclude:
-```
-vocals, choir, singing, drums, epic trailer, brass hits, horror screams, synth bass, melody-heavy
-```
-
-## E3-A Plains nations (Episode 3, VO 4; 40 sec)
-Style:
-```
-spacious reverent instrumental, warm low strings, soft sustained piano, gentle frame drum heartbeat, wide open plains at dawn, calm, instrumental
-```
-Lyrics:
-```
-[Intro: soft sustained piano]
-[Instrumental: warm low strings, gentle frame drum heartbeat]
-[Outro: strings fade]
-[End]
-```
-Exclude:
-```
-vocals, chanting, singing, wooden flute, pan flute, war drums, tribal, new age, synth, stereotypical
-```
-
-## E3-B Nez Perce (Episode 3, VO 10; 40 sec)
-Style:
-```
-slow aching cinematic instrumental, solo cello melody over sparse piano, mountain stillness, quiet resolve and loss, instrumental
-```
-Lyrics:
-```
-[Intro: sparse piano]
-[Instrumental: solo cello melody, slow]
-[Outro: cello sustains, fade]
-[End]
-```
-Exclude:
-```
-vocals, chanting, singing, wooden flute, pan flute, drums, tribal, epic, swelling orchestra, synth
-```
-
----
+**No music during Wounded Knee (VO 14–15).** Leave only the sound effects and the silence.
 
 ## Mix notes
-- Keep music about −20 dB under the voice. Let it rise only in the gaps.
-- Fade every bed in over about 2 sec and out over about 3 sec.
-- The theme tracks serve both ends of an episode: use the start for the intro and the ending for the outro.
+- Keep beds well under the voice, roughly −18 to −22 dB. The library cues are mastered to different levels, so most `aw_` cues are already quiet (about −21 to −23 LUFS) and need less turning down than `j_cold_open` or `m_lament`. Set each one by ear.
+- Fade in over about 2 sec and out over about 3 sec, except the hard stop on "bust" in Episode 1.
