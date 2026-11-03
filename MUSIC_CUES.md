@@ -2,11 +2,12 @@
 
 Every track comes from the existing Chunk History music library (`music/cues/` in the `15minhistorystyle` repo), so there's nothing to generate. Copies are in each episode's `audio/music/` folder, keeping their original prefixes so they can be traced back to the library.
 
-**No intro or outro theme.** Each episode has 4 music placements under specific sections. Everything else is narration and sound effects only.
+**No intro or outro theme.** Each episode has 4 music placements (Episode 1 has a fifth: the night bed under the cold open) under specific sections. Everything else is narration and sound effects only.
 
 ## Episode 1: Boom, Bust, and Barbed Wire
 | # | Where | Track | Use | Notes |
 |---|---|---|---|---|
+| 0 | Cold open (VO 1–2) | `rc_night_riders` + `sfx/S11_night_crickets_loop` | 0:00 to end of VO 2, 0:47 | A night bed under the whole cold open. The crickets loop keeps the night sound going after the horse effect ends. |
 | 1 | Boomtowns (VO 4) | `aw_boomtown_rush` | 0:00–0:44 of the track | Starts with VO 4. Hard-stop the music right after "bust" (43 sec into VO 4) and let the bust line sit in silence. |
 | 2 | Hydraulic mining (VO 7) | `aw_boomtown_hollow` | first 0:35 | Low strings, one sour piano chord. Comes in after the water-cannon SFX. |
 | 3 | Cattle and cowboys (VO 8–9) | `aw_long_drive` | first 1:50 | A cattle-trail cue. Fade out on "Then came the wire." |

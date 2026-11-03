@@ -36,8 +36,9 @@ def build(ep, seq, anchored, music, out):
     for name,a in anchored:
         f=E+f'sfx/{name}.mp3'; d=dur(f); ev.append((f,max(0,at(a)),SFX_UNDER+3-lufs(f),0,d,0.1,min(1.5,d/3)))
     for name,a,b,off,fi,fo in music:
-        f=E+f'music/{name}.mp3'; s=max(0,at(a)); e=at(b); L=min(e-s, dur(f)-off)
-        ev.append((f,s,BED_LUFS-lufs(f),off,L,fi,fo))
+        f=E+(name if '/' in name else f'music/{name}')+'.mp3'; s=max(0,at(a)); e=at(b); L=min(e-s, dur(f)-off)
+        lvl=SFX_UNDER if name.startswith('sfx/') else BED_LUFS
+        ev.append((f,s,lvl-lufs(f),off,L,fi,fo))
     total=max(end_t, max(e[1]+e[4] for e in ev))+0.5
     if os.environ.get("DBG"):
         print("end_t",round(end_t,1)); [print(round(e[1],1),round(e[1]+e[4],1),os.path.basename(e[0])) for e in sorted(ev,key=lambda e:-(e[1]+e[4]))[:6]]; return

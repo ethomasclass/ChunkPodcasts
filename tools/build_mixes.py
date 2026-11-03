@@ -13,7 +13,9 @@ if '1' in which:
  anch=[('S4_frontier_street',('word',4,'Virginia','start',-0.5)),('S5_gold_pan',('word',5,'placer','start',-0.3)),
   ('S8_steam_train',('word',8,'railroad','start',-0.3)),('S9_blizzard',('word',10,'nature','start',-0.3)),
   ('S10_horses_gallop',('word',13,'masks','end',0.2))]
- mus=[('aw_boomtown_rush',('vo',4,'start',-0.5),('word',4,'bust','end',0.15),0,1.0,0.25),
+ mus=[('rc_night_riders',('t',0),('vo',2,'end',1.5),0,2.0,3.0),
+  ('sfx/S11_night_crickets_loop',('t',0),('vo',2,'end',1.5),0,1.5,3.0),
+  ('aw_boomtown_rush',('vo',4,'start',-0.5),('word',4,'bust','end',0.15),0,1.0,0.25),
   ('aw_boomtown_hollow',('vo',7,'start',-1.0),('vo',7,'end',1.5),0,1.5,2.5),
   ('aw_long_drive',('vo',8,'start',-2.5),('word',9,'wire','end',1.2),0,2.0,3.0),
   ('m_lament',('vo',12,'start',-2.0),('word',13,'posted','start',-1.0),0,2.0,3.0)]
