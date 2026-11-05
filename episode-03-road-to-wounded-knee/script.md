@@ -19,21 +19,17 @@ How to use this script:
 > [somber] The soldiers begin searching for weapons.
 
 **VO 2**
-> [thoughtful] Miles away, an Oglala Lakota holy man named Black Elk is about to hear the guns. He saw the Seventh Cavalry once before, as a boy.
+> Miles away, an Oglala Lakota holy man named Black Elk is about to hear the guns. He saw the Seventh Cavalry once before, as a boy.
 > Remember last episode's question? All that land... who was living on it before?
 
-### MUSIC M13 out. MUSIC M1 (theme) swells for 5 seconds, then ducks under VO 3
-
-**VO 3: Show intro**
-> [somber] This is Chunk History Shorts. Episode three: The Road to Wounded Knee.
 
 ### MUSIC M1 fades. SFX S2: buffalo herd thundering past on open prairie, fading into wind → MUSIC M14 (open plains) in, low
 
 **VO 4: The Plains Nations** *(Q1)*
-> [interested] Dozens of nations. The Lakota and Dakota, whom outsiders called the Sioux. The Cheyenne and Arapaho. The Comanche and Kiowa. The Crow and the Pawnee.
+> Dozens of nations. The Lakota and Dakota, whom outsiders called the Sioux. The Cheyenne and Arapaho. The Comanche and Kiowa. The Crow and the Pawnee.
 > After Spanish horses spread north, many built their lives around horses and buffalo, following the herds with tipis they could pack up fast.
-> [interested] They used nearly every part of the buffalo. Hides for tipis, robes, and moccasins. Bones for tools. Sinew for bowstrings. Even the stomach became a cooking pot.
-> [thoughtful] To the Lakota, the buffalo was sacred.
+> They used nearly every part of the buffalo. Hides for tipis, robes, and moccasins. Bones for tools. Sinew for bowstrings. Even the stomach became a cooking pot.
+> To the Lakota, the buffalo was sacred.
 
 ### MUSIC M14 out. SFX S3: dry cornstalks rattling in a hot, empty wind → MUSIC M15 (broken promises) in, low
 
@@ -46,43 +42,43 @@ How to use this script:
 ### (After "Violence followed." let M15 thin out to just low strings for the Sand Creek section)
 
 **VO 6: Gold, silver, and Sand Creek** *(Q3)*
-> [interested] Farther south, in 1858, prospectors found gold near Pikes Peak, Colorado, and later, silver. Tens of thousands of miners poured onto land promised to the Cheyenne and Arapaho. Violence followed.
-> [thoughtful] A Cheyenne peace chief named Black Kettle camped his people at Sand Creek, believing they were under army protection. According to witnesses, an American flag flew over his lodge, with a white flag beneath it.
+> Farther south, in 1858, prospectors found gold near Pikes Peak, Colorado, and later, silver. Tens of thousands of miners poured onto land promised to the Cheyenne and Arapaho. Violence followed.
+> A Cheyenne peace chief named Black Kettle camped his people at Sand Creek, believing they were under army protection. According to witnesses, an American flag flew over his lodge, with a white flag beneath it.
 > [somber] At dawn on November twenty-ninth, 1864, Colonel John Chivington attacked anyway. Around two hundred Cheyenne and Arapaho were killed, most of them women, children, and elders.
 
 ### MUSIC M15 out. SFX S5: quill pen scratching, low murmur of men inside a canvas tent → MUSIC M16 (treaties) in, low
 
 **VO 7: The Peace Commission** *(Q4)*
-> [thoughtful] In 1867, Congress created the Indian Peace Commission. Its message: Native nations must move onto reservations and learn to farm.
+> In 1867, Congress created the Indian Peace Commission. Its message: Native nations must move onto reservations and learn to farm.
 > At Medicine Lodge Creek, southern Plains nations accepted reservations in present-day Oklahoma.
-> [matter-of-fact] But the Lakota leader Red Cloud fought so hard that the army abandoned its forts in his country. The 1868 Treaty of Fort Laramie promised the Lakota a huge reservation, including the sacred Black Hills, for their "absolute and undisturbed use."
+> But the Lakota leader Red Cloud fought so hard that the army abandoned its forts in his country. The 1868 Treaty of Fort Laramie promised the Lakota a huge reservation, including the sacred Black Hills, for their "absolute and undisturbed use."
 > [serious] That promise lasted six years.
 
 ### MUSIC M16 stops on "six years." SFX S6: pickaxe striking rock, echoing through a pine forest → MUSIC M17 (Black Hills) in
 
 **VO 8: Gold in the Black Hills** *(Q5)*
-> [interested] In 1874, George Custer led an army expedition into the Black Hills. They found gold.
+> In 1874, George Custer led an army expedition into the Black Hills. They found gold.
 > [serious] Miners rushed in. The Lakota refused to sell. So the government ordered every Lakota onto the reservation by January thirty-first, 1876, in the dead of winter. Bands that stayed out with Sitting Bull and Crazy Horse were declared hostile. The army went after them, including Custer's Seventh Cavalry.
 
 ### SFX S7: many horses galloping through dry grass, rumbling past and fading into the distance
 
 **VO 9: Little Bighorn** *(Q5)*
 > [serious] On June twenty-fifth, 1876, Custer attacked a huge Lakota, Cheyenne, and Arapaho village on Montana's Little Bighorn River.
-> [determined] The warriors rode out to defend their families. Within about an hour, Custer and every soldier with him were dead.
-> [thoughtful] Black Elk was there, about twelve years old.
+> The warriors rode out to defend their families. Within about an hour, Custer and every soldier with him were dead.
+> Black Elk was there, about twelve years old.
 > [serious] A stunning victory, but a short one. Within a year, most bands had surrendered, and Congress took the Black Hills.
 
 ### MUSIC M17 out. SFX S8: mountain wind through pines, horses and footsteps on a rocky trail → MUSIC M18 (the long flight) in
 
 **VO 10: The Nez Perce** *(Q6)*
 > [serious] Farther west, the Nez Perce faced the same pressure. After gold and settlers arrived, a treaty shrank their land to about a tenth of its size. In 1877, the army ordered bands who refused it onto the small reservation in Idaho. Fighting broke out.
-> [determined] Chief Joseph and other leaders led about seven hundred fifty people on an eleven-hundred-mile flight toward Canada.
+> Chief Joseph and other leaders led about seven hundred fifty people on an eleven-hundred-mile flight toward Canada.
 > [sad] The army caught them about forty miles from the border. As an officer recorded it, Joseph said: "Hear me, my chiefs. I am tired. From where the sun now stands, I will fight no more forever."
 
 ### MUSIC M18 fades after "no more forever" (hold 2 seconds). SFX S9: a single school bell in an empty hallway, then scissors snipping → MUSIC M19 (boarding school) in, low
 
 **VO 11: Assimilation and boarding schools** *(Q7–Q8)*
-> [thoughtful] With the wars ending, the government tried assimilation: absorbing a people into the larger culture until they lose their own languages and traditions.
+> With the wars ending, the government tried assimilation: absorbing a people into the larger culture until they lose their own languages and traditions.
 > [serious] The main target was children. In 1879, Richard Henry Pratt opened the Carlisle Indian Industrial School in Pennsylvania. His motto: "Kill the Indian in him, and save the man."
 > Students' long hair was cut. They got English names and uniforms, and were punished for speaking their own languages.
 > [sad] Pratt used before-and-after photos to prove it worked. Hundreds of schools copied Carlisle. Many children never made it home.
@@ -96,10 +92,10 @@ How to use this script:
 ### MUSIC M19 out. SFX S11: night wind over the prairie, a crackling fire, many footsteps moving slowly over frozen ground → MUSIC M20 (Ghost Dance) in, low
 
 **VO 13: The Ghost Dance and Sitting Bull** *(Q10)*
-> [interested] By 1890, the buffalo were nearly gone, and the Lakota were hungry.
+> By 1890, the buffalo were nearly gone, and the Lakota were hungry.
 > Hope came from a vision. A Paiute holy man named Wovoka taught that if Native people danced the Ghost Dance, the buffalo and their lost loved ones would return. Some Lakota wore Ghost Dance shirts they believed could stop bullets.
 > [serious] Officials panicked. At Standing Rock, agent James McLaughlin feared Sitting Bull would lead the movement. On December fifteenth, 1890, he sent Lakota police to arrest him. A fight broke out, and Sitting Bull was killed.
-> [thoughtful] So Sitting Bull died at Standing Rock, not Wounded Knee. But one led straight to the other.
+> So Sitting Bull died at Standing Rock, not Wounded Knee. But one led straight to the other.
 
 ### MUSIC M20 out. SFX S1 returns (winter wind) → MUSIC M13 in, low
 
@@ -119,8 +115,7 @@ How to use this script:
 **VO 16: Close**
 > [reflective] Black Elk rode to the creek when he heard the guns. Decades later, he told his story to John Neihardt for the book Black Elk Speaks.
 > [sad] "Something else died there in the bloody mud," he said, "and was buried in the blizzard. A people's dream died there. It was a beautiful dream."
-> [thoughtful] But the Lakota, and all these nations, are still here. Still telling their own stories.
-> [somber] Thanks for listening to Chunk History Shorts.
+> But the Lakota, and all these nations, are still here. Still telling their own stories.
 
 ### MUSIC M1 swells to finish (about 8 sec)
 

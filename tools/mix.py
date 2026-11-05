@@ -48,6 +48,7 @@ def build(ep, seq, anchored, music, out):
     for i,(f,s,g,off,L,fi,fo) in enumerate(ev):
         args+=['-i',f]
         c=f'[{i}:a]aresample=44100,aformat=channel_layouts=stereo,atrim={off:.3f}:{off+L:.3f},asetpts=PTS-STARTPTS,volume={g:.2f}dB'
+        if '/narration/' in f: c+=',acompressor=threshold=0.1:ratio=2.5:attack=15:release=250:knee=4'   # gentle: evens out loud lines
         if fi: c+=f',afade=t=in:d={fi}'
         if fo: c+=f',afade=t=out:st={max(0,L-fo):.3f}:d={fo}'
         c+=f',adelay={int(s*1000)}|{int(s*1000)}[a{i}]'; fl.append(c)

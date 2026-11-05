@@ -21,29 +21,25 @@ How to use this script:
 ### SFX S2: wire cutters snapping taut wire, metallic twang (×2)
 
 **VO 2**
-> [interested] By morning, miles of fence will be lying in the dirt. Who were these riders? And why were they so angry about a fence?
-> To find out, we have to go back thirty years... to a mountainside in Nevada, where a group of miners was about to get [interested] very lucky.
+> By morning, miles of fence will be lying in the dirt. Who were these riders? And why were they so angry about a fence?
+> To find out, we have to go back thirty years... to a mountainside in Nevada, where a group of miners was about to get very lucky.
 
-### MUSIC M1: Theme swells for 5 seconds, then ducks under VO 3
-
-**VO 3: Show intro**
-> [thoughtful] This is Chunk History Shorts. Episode one: Boom, Bust, and Barbed Wire.
 
 ### MUSIC M1 fades out. SFX S3: pickaxe striking rock in a mine tunnel → MUSIC M2 (boomtown) fades in low
 
 **VO 4: Boomtowns** *(Q1, Q2)*
-> [storytelling] In 1859, prospectors in western Nevada kept hitting a sticky, blue-gray mud that clogged their equipment. [interested] It turned out to be loaded with silver.
+> In 1859, prospectors in western Nevada kept hitting a sticky, blue-gray mud that clogged their equipment. It turned out to be loaded with silver.
 > The find was named after one of the men who claimed it, Henry Comstock. The Comstock Lode became one of the richest silver strikes in history.
 > Within months, thousands rushed in. A town called Virginia City appeared almost overnight, and by the 1870s, about twenty-five thousand people lived there.
-> [matter-of-fact] That's a boomtown: a town that explodes into existence because of a sudden opportunity, usually a gold or silver strike. They popped up wherever someone struck it rich, from Deadwood in the Dakotas to Leadville in Colorado.
+> That's a boomtown: a town that explodes into existence because of a sudden opportunity, usually a gold or silver strike. They popped up wherever someone struck it rich, from Deadwood in the Dakotas to Leadville in Colorado.
 > [somber] But a boom usually comes with a bust. When the ore ran out, the miners left, the stores closed, and many boomtowns became ghost towns.
-> [matter-of-fact] Still, mining changed the country. It pulled hundreds of thousands of people west: Americans from the East, and immigrants from China, Ireland, Mexico, Chile, and beyond. Territories filled up fast enough to become states. Nevada in 1864. Colorado in 1876. And western gold and silver helped pay for the Civil War and fueled the national economy.
+> Still, mining changed the country. It pulled hundreds of thousands of people west: Americans from the East, and immigrants from China, Ireland, Mexico, Chile, and beyond. Territories filled up fast enough to become states. Nevada in 1864. Colorado in 1876. And western gold and silver helped pay for the Civil War and fueled the national economy.
 
 ### SFX S4 under the Virginia City line: busy frontier street (wagons, hammering, crowd chatter)
 ### MUSIC M2 fades out
 
 **VO 5: Placer vs. hydraulic** *(Q3)*
-> [curious] So how did miners actually get the gold out?
+> So how did miners actually get the gold out?
 > The early way was placer mining. Gold washes down into streams, so miners swirled gravel in a pan, or shoveled it into a long wooden box called a sluice. Water carried the light dirt away, and the heavy gold sank and got caught on little ridges at the bottom. Slow work. But small.
 
 ### SFX S5 under the placer lines: gold pan swishing water at a creek
@@ -60,18 +56,18 @@ How to use this script:
 ### MUSIC M3 out. SFX S7: cattle herd lowing, hooves, cowboy whistle → MUSIC M4 (trail) in
 
 **VO 8: The cattle boom** *(Q4)*
-> [interested] While miners tore into the mountains, another fortune was walking around on four legs.
+> While miners tore into the mountains, another fortune was walking around on four legs.
 > After the Civil War, millions of longhorn cattle roamed Texas, where a steer was worth about four dollars. But back East, cities were filling up with factory workers, and all those workers wanted beef. In Chicago or New York, that same steer could be worth forty.
-> [matter-of-fact] Four dollars here. Forty dollars there. The problem was the thousand miles in between.
-> [interested] The answer was the railroad. By the late 1860s, tracks reached cow towns in Kansas like Abilene. Get the cattle there, and trains could carry them to the stockyards of Chicago. Later, refrigerated railcars carried fresh beef all the way to the East Coast.
+> Four dollars here. Forty dollars there. The problem was the thousand miles in between.
+> The answer was the railroad. By the late 1860s, tracks reached cow towns in Kansas like Abilene. Get the cattle there, and trains could carry them to the stockyards of Chicago. Later, refrigerated railcars carried fresh beef all the way to the East Coast.
 
 ### SFX S8 under the railroad line: steam locomotive whistle and chugging
 
 **VO 9: Cowboys and the open range** *(Q5, Q6)*
 > Texas ranchers like Charles Goodnight drove thousands of cattle hundreds of miles to reach those markets. Goodnight even invented the chuck wagon to feed his crew.
-> [interested] That crew? Cowboys.
-> A cowboy's job was to take care of the herd. Cowboys rounded up cattle, branded them so owners could tell whose animals were whose, and drove them north on cattle drives that lasted months, guarding the herd at night and stopping stampedes. The pay was low. The work was dangerous. [matter-of-fact] And the movies got a lot wrong. [serious] As many as one in four cowboys was Black, and many were Mexican vaqueros, whose skills, and words like "lasso" and "rodeo," shaped the whole job.
-> [curious] And where did all those cattle eat? On the open range: the huge stretch of unfenced public grassland across the Great Plains, where ranchers let their herds graze freely on land they didn't own.
+> That crew? Cowboys.
+> A cowboy's job was to take care of the herd. Cowboys rounded up cattle, branded them so owners could tell whose animals were whose, and drove them north on cattle drives that lasted months, guarding the herd at night and stopping stampedes. The pay was low. The work was dangerous. And the movies got a lot wrong. [serious] As many as one in four cowboys was Black, and many were Mexican vaqueros, whose skills, and words like "lasso" and "rodeo," shaped the whole job.
+> And where did all those cattle eat? On the open range: the huge stretch of unfenced public grassland across the Great Plains, where ranchers let their herds graze freely on land they didn't own.
 > For about twenty years, it worked. [ominous] Then came the wire.
 
 ### MUSIC M4 stops dead on "wire." SFX S2 (wire twang). MUSIC M5 (tension) in
@@ -85,18 +81,18 @@ How to use this script:
 
 **VO 11**
 > Between barbed wire, overgrazing, and railroads reaching farther west, the open range and the long cattle drive were finished by about 1890.
-> [interested] Which brings us back to New Mexico.
+> Which brings us back to New Mexico.
 
 ### MUSIC M5 out. SFX S1 returns briefly → MUSIC M6 (New Mexico) in
 
 **VO 12: Nuevomexicanos** *(Q8)*
-> [thoughtful] Hispanic families, Nuevomexicanos, had lived in New Mexico for generations, some for nearly three hundred years. Many villages sat on land grants from Spain or Mexico, and much of that land was shared: common land where everyone could graze sheep and cut firewood. When the United States took the region in 1848, the treaty promised to respect those property rights.
+> Hispanic families, Nuevomexicanos, had lived in New Mexico for generations, some for nearly three hundred years. Many villages sat on land grants from Spain or Mexico, and much of that land was shared: common land where everyone could graze sheep and cut firewood. When the United States took the region in 1848, the treaty promised to respect those property rights.
 > [serious] But when the railroad arrived in 1879, so did a population boom: Anglo ranchers, land speculators, and lawyers. Hispanic land claims were challenged in American courts, in a language and legal system that wasn't theirs. Shared village land was often treated as if it belonged to no one, then sold and fenced. [sad] Many families lost their land and ended up working for wages on ground that had once been theirs.
 
 **VO 13: Las Gorras Blancas** *(Q9)*
-> [determined] On the Las Vegas Land Grant, in San Miguel County, some people decided to fight back. They called themselves Las Gorras Blancas, the White Caps, after the white masks they wore. Led by Juan José Herrera and his brothers, they rode at night in 1889 and 1890, cutting fences, burning barns, and tearing up railroad ties. They may have had more than a thousand members.
+> On the Las Vegas Land Grant, in San Miguel County, some people decided to fight back. They called themselves Las Gorras Blancas, the White Caps, after the white masks they wore. Led by Juan José Herrera and his brothers, they rode at night in 1889 and 1890, cutting fences, burning barns, and tearing up railroad ties. They may have had more than a thousand members.
 > [serious] In 1890, they posted a public platform. It began: "Our purpose is to protect the rights and interests of the people in general, especially those of the helpless classes."
-> [thoughtful] Eventually the movement turned to politics, and the night rides faded. But the question they raised didn't.
+> Eventually the movement turned to politics, and the night rides faded. But the question they raised didn't.
 
 ### SFX S10 after "white masks they wore": horses galloping off into the night
 ### MUSIC M6 fades → MUSIC M1 (theme) in, low
@@ -104,8 +100,7 @@ How to use this script:
 **VO 14: Close**
 > [reflective] Miners, cattle barons, cowboys, farmers, Nuevomexicanos. For a while, the open West seemed big enough for everyone. Then barbed wire drew lines across all of it.
 > [serious] Every one of those fences answered the same question: Who does this land belong to?
-> [calm] Next time: the government offers free land to anyone willing to farm it, and thousands of families bet everything on a place once called the Great American Desert.
-> [thoughtful] Thanks for listening to Chunk History Shorts.
+> Next time: the government offers free land to anyone willing to farm it, and thousands of families bet everything on a place once called the Great American Desert.
 
 ### MUSIC M1 swells to finish (about 8 sec)
 

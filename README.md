@@ -30,6 +30,6 @@ See [STYLE_GUIDE.md](STYLE_GUIDE.md) for voice, tag, and format rules shared by 
 
 ## Final mixes
 
-Each episode folder has a finished mix: `Chunk_History_Shorts_Ep<N>_<Title>.mp3` (narration, sound effects and music beds, normalized to −16 LUFS).
+Each episode folder has a finished mix: `Ep<N>_<Title>.mp3` (narration, sound effects and music beds, normalized to −16 LUFS).
 
 To rebuild after changing a clip or a cue, run `python3 tools/build_mixes.py` for all episodes, or `python3 tools/build_mixes.py 2` for just Episode 2. Cue placements live in `tools/build_mixes.py`. Sound effects can be anchored to a spoken word using the word timings in `tools/words/`. If you re-record a clip, refresh its word timings too.
